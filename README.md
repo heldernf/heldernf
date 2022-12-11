@@ -24,7 +24,7 @@
   <br>
   If you want to contact me, please contact me through my Gmail.
   <br><br>
-  <a href = "mailto:contacthelder2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+  <a href="mailto:contacthelder2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
 </div>
   
 #
