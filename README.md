@@ -2,7 +2,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hy,+My+name+is+Helder+Neto,+i'm+17+years+old;I+live+in+Rio+Verde-GO,+Brazil;I'm+currently+studying;HTML,+CSS,+and+JavaScript!!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Helder+Neto;I+live+in+Rio+Verde-GO,+Brazil;I'm+Front-end+Developer+:%29)](https://git.io/typing-svg)
 
 #
 
@@ -12,20 +12,5 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117" alt="HTML">
-  <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117" alt="CSS">
-  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117" alt="JavaScript">
-</div>
-
-#
-  
-<div align="center">
-  <br><br>
-  If you want to contact me, please contact me through my Gmail.
-  <br><br><br>
-  <a href="mailto:contacthelder2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
   
 #
