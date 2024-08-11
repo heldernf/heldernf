@@ -2,7 +2,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Helder+Neto;I+live+in+Rio+Verde-GO,+Brazil;I'm+Front-end+Developer+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Helder+Neto;I+live+in+Rio+Verde-GO,+Brazil:%29)](https://git.io/typing-svg)
 
 #
 
