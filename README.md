@@ -6,11 +6,16 @@
 
 #
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=heldernf&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Helder Neto github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heldernf&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<br>
+
+<div align="center">
+
+  [![heldernf's GitHub stats](https://github-stats-extended.vercel.app/api?username=heldernf&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only)
+
+  [![heldernf's GitHub stats](https://github-stats-extended.vercel.app/api?username=heldernf&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-light-mode-only)
+
+  <img src="https://skillicons.dev/icons?i=lua,nodejs,ts,react,tailwind,mysql,git" />
+
 </div>
 
-<br>
-  
 #
